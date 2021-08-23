@@ -1,7 +1,7 @@
 ### Hi there, I'm AlHasan Ali - aka [AlHasanAliMedia] 👋
 
 
-## I'm an Engineer, Translator, Proofreader, Photographer, Developer!
+## I'm an Engineer, YouTuber, Photographer, Developer, UI/UX Designer, IT Specialist, Technical Editor, Translator, Proofreader!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators on new projects, or just for the sake of learn!
