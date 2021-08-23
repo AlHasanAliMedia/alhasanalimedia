@@ -27,16 +27,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 
 <br />
-<br />
-
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="AlHasanAliMedia's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AlHasanAliMedia&show_icons=true&hide_border=true" />
-
-</details>
 
 [facebook]: https://facebook.com/in/alhasanalimedia
 [instagram]: https://instagram.com/alhasanalimedia
