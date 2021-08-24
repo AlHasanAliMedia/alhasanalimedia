@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators on new projects, or just for the sake of learn!
 - 🥅 2021 Goals: Dive deeper into Flutter and Dart world!
-- ⚡ Fun fact: I'm into reading, like a alot!
+- ⚡ Fun fact: I'm into reading, like a a lot!
 
 ### Connect with me:
 [<img align="left" alt="AlHasanAliMedia | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
