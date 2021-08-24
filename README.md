@@ -3,7 +3,7 @@
 
 ## I'm an Engineer, YouTuber, Photographer, Developer, UI/UX Designer, IT Specialist, Technical Editor, Translator, Proofreader!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators on new projects, or just for the sake of learn!
 - 🥅 2021 Goals: Dive deeper into Flutter and Dart world!
 - ⚡ Fun fact: I'm into reading, like a alot!
